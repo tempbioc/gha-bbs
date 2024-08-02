@@ -1,0 +1,12 @@
+[submodule "BiocGenerics"]
+	path = BiocGenerics
+	url = https://github.com/bioc/BiocGenerics
+[submodule "BioBase"]
+	path = BioBase
+	url = https://github.com/bioc/BioBase
+[submodule "testregistry"]
+	path = testregistry
+	url = https://github.com/tempbioc/testregistry
+[submodule ".registry"]
+	path = .registry
+	url = https://github.com/tempbioc/testregistry
