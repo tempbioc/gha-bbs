@@ -7,3 +7,12 @@
 [submodule ".registry"]
 	path = .registry
 	url = https://github.com/tempbioc/testregistry
+[submodule "ontoProc"]
+	path = ontoProc
+	url = https://github.com/tempbioc/ontoProc
+[submodule "Rhtslib"]
+	path = Rhtslib
+	url = https://github.com/bioc/Rhtslib
+[submodule "DirichletMultinomial"]
+	path = DirichletMultinomial
+	url = https://github.com/bioc/DirichletMultinomial
