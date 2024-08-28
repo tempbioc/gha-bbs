@@ -9,7 +9,7 @@
 	url = https://github.com/bioc/DirichletMultinomial
 [submodule "ontoProc"]
 	path = ontoProc
-	url = https://github.com/bioc/ontoProc
+	url = https://github.com/tempbioc/ontoProc
 [submodule "Rhtslib"]
 	path = Rhtslib
 	url = https://github.com/bioc/Rhtslib
