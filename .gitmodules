@@ -4,18 +4,6 @@
 [submodule "BioBase"]
 	path = BioBase
 	url = https://github.com/bioc/BioBase
-[submodule "DirichletMultinomial"]
-	path = DirichletMultinomial
-	url = https://github.com/bioc/DirichletMultinomial
-[submodule "ontoProc"]
-	path = ontoProc
-	url = https://github.com/tempbioc/ontoProc
-[submodule "Rhtslib"]
-	path = Rhtslib
-	url = https://github.com/bioc/Rhtslib
-[submodule "testregistry"]
-	path = testregistry
-	url = https://github.com/tempbioc/testregistry
 [submodule ".registry"]
 	path = .registry
 	url = https://github.com/tempbioc/testregistry
